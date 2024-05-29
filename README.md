@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prachi Mali</h1>
 <h3 align="center">Passionate Software Testing Enthusiast Committed to Quality Assurance and Test Automation Excellence.</h3>
-<img align="right" alt="testing" width="500" src="https://pin.it/WGLU067t6">
+<img align="right" alt="testing" width="500" src="https://tse4.mm.bing.net/th?id=OIP.6qnP8ZHESN0IhK15TWdahAHaFj&pid=Api&P=0&h=180">
 
 
 
@@ -25,7 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachimali05&show_icons=true&locale=en&layout=compact" alt="prachimali05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachimali05&show_icons=true&locale=en" alt="prachimali05" /></p>
-
-
 
 
