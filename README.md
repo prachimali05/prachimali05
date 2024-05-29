@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prachi Mali</h1>
-<h3 align="center">Passionate Software Testing Enthusiast , Committed to Quality Assurance and Test Automation Excellence.</h3>
-
+<h3 align="center">Passionate Software Testing Enthusiast Committed to Quality Assurance and Test Automation Excellence.</h3>
 <img align="right" alt="testing" width="500" src="https://tse4.mm.bing.net/th?id=OIP.6qnP8ZHESN0IhK15TWdahAHaFj&pid=Api&P=0&h=180">
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachimali05&label=Profile%20views&color=0e75b6&style=flat" alt="prachimali05" /> </p>
+
+- 🌱 I’m currently learning **Automation Tools**
+
+- 💬 Ask me about **Manual Testing, Agile, Core Java, Selenium Webdriver, SQL, HTML5, CSS3**
 
 - 📫 How to reach me **prachimali005@gmail.com**
 
