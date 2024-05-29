@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prachi Mali</h1>
 <h3 align="center">Passionate Software Testing Enthusiast Committed to Quality Assurance and Test Automation Excellence.</h3>
-<img align="right" alt="testing" width="500" src="https://tse4.mm.bing.net/th?id=OIP.6qnP8ZHESN0IhK15TWdahAHaFj&pid=Api&P=0&h=180">
+<img align="right" alt="testing" width="500" src="https://pin.it/WGLU067t6">
 
 
 
-<p align="left"> <img src="https://pin.it/WGLU067t6" alt="prachimali05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachimali05&label=Profile%20views&color=0e75b6&style=flat" alt="prachimali05" /> </p>
+
 
 - 🌱 I’m currently learning **Automation Tools**
 
@@ -24,5 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachimali05&show_icons=true&locale=en&layout=compact" alt="prachimali05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachimali05&show_icons=true&locale=en" alt="prachimali05" /></p>
+
+
 
 
